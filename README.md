@@ -1,4 +1,4 @@
-# Shadowrocket_Modules
+# YoutubeModuleSR
 
 Перед установкой модуля советую использовать конфиг для Shadowrocket от Misha Tugushev (https://github.com/misha-tgshv?ref=mishatugushev.ru) актуальный для РФ.
 1. Открываем вкладку Настройка (Config) с иконкой папки, жмем в верхнем правом углу на + и добавляем ссылку на готовый конфиг в поле Загрузить с URL (Download from URL):
