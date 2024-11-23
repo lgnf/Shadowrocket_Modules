@@ -23,4 +23,4 @@
 9. Включаем VPN.
 
 Модуль и скрипты были взяты из этого репозитория: 
-https://github.com/YanbingJiang/Shadowrocket_diy_rules?tab=readme-ov-file
+https://github.com/YanbingJiang/Shadowrocket_diy_rules
