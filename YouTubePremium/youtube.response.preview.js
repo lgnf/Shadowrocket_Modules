@@ -2984,11 +2984,12 @@
         (t = e.charAt(o) == r ? (t + s) & 4294967295 : t ^ s);
     return t;
   }
-  function Yt(t, e) {
-    return `https://translate.google.com/translate_a/single?client=gtx&sl=auto&tl=${e}&hl=zh-CN&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&source=bh&ssel=0&tsel=0&kc=1&tk=${lr(
+  function Yt(t) {
+    return `https://translate.google.com/translate_a/single?client=gtx&sl=auto&tl=ru&hl=ru&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&source=bh&ssel=0&tsel=0&kc=1&tk=${lr(
       t,
     )}&q=${encodeURIComponent(t)}`;
   }
+  
   var j = class extends L {
       constructor(e = Mt, n = "Browse") {
         super(e, n);
