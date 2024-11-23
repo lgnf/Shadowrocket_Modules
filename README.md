@@ -20,3 +20,6 @@
    https://github.com/lgnf/Shadowrocket_Modules/blob/main/YouTubePremium/YoutubePremium.module
 8. Убеждаемся, что модуль включен - на нём должна стоять галочка;
 9. Включаем VPN.
+
+Модуль и скрипты были взяты из этого репозитория: 
+https://github.com/YanbingJiang/Shadowrocket_diy_rules?tab=readme-ov-file
