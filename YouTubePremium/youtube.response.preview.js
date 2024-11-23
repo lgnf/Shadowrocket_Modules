@@ -2826,8 +2826,8 @@
     }
     decodeArgument() {
       let e = {
-        lyricLang: "en",
-        captionLang: "en",
+        lyricLang: "ru",
+        captionLang: "ru",
         blockUpload: !0,
         blockImmersive: !0,
         debug: !1,
