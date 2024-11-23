@@ -1,7 +1,6 @@
 # Shadowrocket_Modules
-Useful modules for the Shadowrocket VPN client
 
-Перед установкой модуля советую использовать конфиг ддя Shadowrocket от Misha Tugushev (https://github.com/misha-tgshv?ref=mishatugushev.ru)
+Перед установкой модуля советую использовать конфиг ддя Shadowrocket от Misha Tugushev (https://github.com/misha-tgshv?ref=mishatugushev.ru) актуальный для РФ.
 1. Открываем вкладку Настройка (Config) с иконкой папки, жмем в верхнем правом углу на + и добавляем ссылку на готовый конфиг в поле Загрузить с URL (Download from URL):
    https://cdn.jsdelivr.net/gh/misha-tgshv/shadowrocket-configuration-file@release/conf/sr_ru_public_lists.conf
 3. Заходим конфиг и в нём открываем HTTPS Decryption → активируем HTTPS Decryption → выпускаем сертификат Generate A New CA Certificate.
